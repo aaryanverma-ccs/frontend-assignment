@@ -219,11 +219,13 @@ You may install and use these libraries:
 
 ## Submission Checklist
 
-- [ ] Push your code to a **public GitHub repository**
+- [ ] **DO NOT fork this repository.** Clone it, create a fresh repo under your own GitHub account, and push your work there.
+- [ ] Keep your submission repo **private** until the review process is complete. We will ask for collaborator access if needed. Making it public allows other candidates to copy your work — and if we find identical submissions, both will be rejected.
 - [ ] Write **meaningful commit messages** that show your process (not one giant commit)
 - [ ] Deploy on **Vercel** — add the live URL to your repo description
 - [ ] Make sure the deployed version works (API calls will fail on Vercel since json-server is local — that's okay, we'll run it locally. Alternatively, you can deploy the JSON to a free service like [My JSON Server](https://my-json-server.typicode.com/) for a live API)
 - [ ] Update this README with any additional setup instructions for your additions
+- [ ] Send your **GitHub repo link** (add us as collaborator: `aaryanverma-ccs`) and **Vercel deployment URL** to **hr@catchycornerstudio.com**
 
 ---
 
