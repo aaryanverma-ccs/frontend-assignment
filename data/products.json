@@ -1,0 +1,194 @@
+{
+  "products": [
+    {
+      "id": "after-dark",
+      "name": "AFTER DARK",
+      "tagline": "You weren't meant to play safe.",
+      "description": "A bold, intoxicating blend that lingers long after you've left the room. Built for the ones who own the night. AFTER DARK opens with a sharp crack of black pepper and a whisper of saffron, settling into a deep heart of oud and amber. The dry-down is warm, smoky sandalwood laced with dark vanilla — the kind of scent that makes people lean in closer.",
+      "price": 2499,
+      "currency": "INR",
+      "sizes": [
+        { "ml": 30, "price": 1299 },
+        { "ml": 50, "price": 2499 },
+        { "ml": 100, "price": 3999 }
+      ],
+      "ingredients": ["Oud", "Amber", "Black Pepper", "Sandalwood", "Dark Vanilla"],
+      "images": [
+        "https://images.unsplash.com/photo-1780943004155-1b2c5424fb2e?w=600&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1594035910387-fba1e640bbf1?w=600&h=800&fit=crop&auto=format"
+      ],
+      "reviews": [
+        {
+          "name": "Arjun",
+          "age": 27,
+          "rating": 5,
+          "comment": "Finally found a perfume that actually feels like me. Dark, addictive and gets noticed every time."
+        },
+        {
+          "name": "Meera",
+          "age": 23,
+          "rating": 4,
+          "comment": "Obsessed. The sillage is insane — people ask me what I'm wearing every single time."
+        },
+        {
+          "name": "Dev",
+          "age": 30,
+          "rating": 5,
+          "comment": "This is not a fragrance, it's an entrance. Lasts 10+ hours easily."
+        }
+      ],
+      "category": "Eau de Parfum",
+      "gender": "Unisex",
+      "accent": "#c8101e",
+      "profile": "Oud · Amber · Black Pepper"
+    },
+    {
+      "id": "sinner",
+      "name": "SINNER",
+      "tagline": "Temptation has a new name.",
+      "description": "Dark rose meets raw vetiver in a scent that doesn't ask permission — it takes attention. SINNER is designed for the unapologetically bold. The opening is a clash of dark Turkish rose and sharp green vetiver, softened by a heart of velvety musk. As it dries, tonka bean and black orchid emerge — addictive, warm, and impossible to forget.",
+      "price": 2799,
+      "currency": "INR",
+      "sizes": [
+        { "ml": 30, "price": 1499 },
+        { "ml": 50, "price": 2799 },
+        { "ml": 100, "price": 4499 }
+      ],
+      "ingredients": ["Dark Rose", "Vetiver", "Musk", "Tonka Bean", "Black Orchid"],
+      "images": [
+        "https://images.unsplash.com/photo-1783712727690-9b90aa652771?w=600&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1588514727390-91fd2b611bad?w=600&h=800&fit=crop&auto=format"
+      ],
+      "reviews": [
+        {
+          "name": "Rahul",
+          "age": 24,
+          "rating": 5,
+          "comment": "Bought it for myself. My girlfriend stole it."
+        },
+        {
+          "name": "Priya",
+          "age": 26,
+          "rating": 5,
+          "comment": "The rose note is dark, not sweet. Exactly what I was looking for."
+        }
+      ],
+      "category": "Eau de Parfum",
+      "gender": "Her / Him",
+      "accent": "#8f0b15",
+      "profile": "Dark Rose · Vetiver · Musk"
+    },
+    {
+      "id": "red-flag",
+      "name": "RED FLAG",
+      "tagline": "They warned you. You didn't listen.",
+      "description": "Saffron and leather collide with earthy patchouli. Bold, dangerous, and completely irresistible. RED FLAG is not subtle — and it's not trying to be. It opens with a golden burst of saffron and warm cardamom, evolving into a heart of supple leather and deep patchouli. The base is smoky birch and labdanum, leaving a trail that's as magnetic as it is mysterious.",
+      "price": 2999,
+      "currency": "INR",
+      "sizes": [
+        { "ml": 30, "price": 1599 },
+        { "ml": 50, "price": 2999 },
+        { "ml": 100, "price": 4799 }
+      ],
+      "ingredients": ["Saffron", "Leather", "Patchouli", "Cardamom", "Smoky Birch"],
+      "images": [
+        "https://images.unsplash.com/photo-1783712727652-ca082bd57fe0?w=600&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=600&h=800&fit=crop&auto=format"
+      ],
+      "reviews": [
+        {
+          "name": "Isha",
+          "age": 29,
+          "rating": 5,
+          "comment": "Not another boring perfume brand. The whole vibe is different. I haven't gone back."
+        },
+        {
+          "name": "Vikram",
+          "age": 31,
+          "rating": 4,
+          "comment": "The leather note is chef's kiss. Compliment magnet at every party."
+        }
+      ],
+      "category": "Eau de Parfum",
+      "gender": "Unisex",
+      "accent": "#c8101e",
+      "profile": "Saffron · Leather · Patchouli"
+    },
+    {
+      "id": "no-apologies",
+      "name": "NO APOLOGIES",
+      "tagline": "Unapologetically you.",
+      "description": "Bergamot cuts through smoky cedarwood in a scent that's refined yet rebellious. For the ones who never explain themselves. NO APOLOGIES opens bright with Italian bergamot and a hint of pink pepper, then deepens into a woody heart of cedarwood and a subtle smoke accord. The base is clean white musk and vetiver — crisp, confident, and effortlessly cool.",
+      "price": 2699,
+      "currency": "INR",
+      "sizes": [
+        { "ml": 30, "price": 1399 },
+        { "ml": 50, "price": 2699 },
+        { "ml": 100, "price": 4299 }
+      ],
+      "ingredients": ["Bergamot", "Cedarwood", "Smoke Accord", "White Musk", "Vetiver"],
+      "images": [
+        "https://images.unsplash.com/photo-1787861214730-ac2000bd1ba0?w=600&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1595425964272-fc617fa82efe?w=600&h=800&fit=crop&auto=format"
+      ],
+      "reviews": [
+        {
+          "name": "Karan",
+          "age": 26,
+          "rating": 5,
+          "comment": "Clean but edgy. Perfect for everyday without being forgettable."
+        },
+        {
+          "name": "Ananya",
+          "age": 22,
+          "rating": 4,
+          "comment": "My go-to for office and dates. Versatile king."
+        }
+      ],
+      "category": "Eau de Parfum",
+      "gender": "Him",
+      "accent": "#8f0b15",
+      "profile": "Bergamot · Cedarwood · Smoke"
+    },
+    {
+      "id": "holy-smoke",
+      "name": "HOLY SMOKE",
+      "tagline": "Sacred meets scandalous.",
+      "description": "Incense and tobacco leaf wrapped in warm amber. A ritual for the irreverent. HOLY SMOKE is a fragrance that feels like walking into a candlelit room you weren't invited to. The opening is smoky frankincense and aromatic tobacco leaf, settling into a rich amber heart with hints of labdanum. The dry-down is warm cashmeran and sandalwood — meditative, sensual, and deeply personal.",
+      "price": 3199,
+      "currency": "INR",
+      "sizes": [
+        { "ml": 30, "price": 1699 },
+        { "ml": 50, "price": 3199 },
+        { "ml": 100, "price": 4999 }
+      ],
+      "ingredients": ["Incense", "Tobacco Leaf", "Amber", "Labdanum", "Cashmeran"],
+      "images": [],
+      "reviews": [],
+      "category": "Eau de Parfum",
+      "gender": "Unisex",
+      "accent": "#c8101e",
+      "profile": "Incense · Tobacco · Amber"
+    },
+    {
+      "id": "midnight-confession",
+      "name": "MIDNIGHT CONFESSION",
+      "tagline": "What happens after midnight stays on your skin.",
+      "description": "Black cherry and suede melt into a base of dark musk. Intimate, addictive, and made for close encounters. MIDNIGHT CONFESSION is the scent equivalent of a whispered secret. It opens with the sweetness of black cherry tempered by cool suede, blooming into a heart of jasmine absolute and iris. The base is dark musk and benzoin — warm, resinous, and impossibly close.",
+      "price": 3499,
+      "currency": "INR",
+      "sizes": [
+        { "ml": 30, "price": 1899 },
+        { "ml": 50, "price": 3499 },
+        { "ml": 100, "price": 5499 }
+      ],
+      "ingredients": ["Black Cherry", "Suede", "Dark Musk", "Jasmine Absolute", "Benzoin"],
+      "images": [],
+      "reviews": [],
+      "category": "Eau de Parfum",
+      "gender": "Her",
+      "accent": "#8f0b15",
+      "profile": "Black Cherry · Suede · Dark Musk"
+    }
+  ]
+}
